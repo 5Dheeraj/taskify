@@ -1,0 +1,33 @@
+[08-Apr-2025 15:36:35 Asia/Kolkata] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/kiwanoin/public_html/vendor/composer/platform_check.php on line 28
+[08-Apr-2025 15:36:53 Asia/Kolkata] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/kiwanoin/public_html/vendor/composer/platform_check.php on line 28
+[24-Apr-2025 17:06:15 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\TrainingController as TrainingController because the name is already in use in /home/kiwanoin/public_html/routes/web.php on line 872
+[24-Apr-2025 17:06:15 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\TrainingController as TrainingController because the name is already in use in /home/kiwanoin/public_html/routes/web.php on line 872
+[24-Apr-2025 17:06:25 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\TrainingController as TrainingController because the name is already in use in /home/kiwanoin/public_html/routes/web.php on line 872
+[24-Apr-2025 17:06:31 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\TrainingController as TrainingController because the name is already in use in /home/kiwanoin/public_html/routes/web.php on line 872
+[24-Apr-2025 17:06:33 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\TrainingController as TrainingController because the name is already in use in /home/kiwanoin/public_html/routes/web.php on line 872
+[24-Apr-2025 17:06:39 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\TrainingController as TrainingController because the name is already in use in /home/kiwanoin/public_html/routes/web.php on line 872
+[24-Apr-2025 17:07:02 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\TrainingController as TrainingController because the name is already in use in /home/kiwanoin/public_html/routes/web.php on line 872
+[24-Apr-2025 17:48:29 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\HomeController::index() in /home/kiwanoin/public_html/app/Http/Controllers/HomeController.php on line 552
+[26-Apr-2025 06:27:08 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\TrainingNoticeController, because the name is already in use in /home/kiwanoin/public_html/app/Http/Controllers/TrainingController.php on line 8
+[26-Apr-2025 06:27:09 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\TrainingNoticeController, because the name is already in use in /home/kiwanoin/public_html/app/Http/Controllers/TrainingController.php on line 8
+[05-May-2025 16:16:43 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\TrainingController as TrainingController because the name is already in use in /home/kiwanoin/public_html/routes/web.php on line 110
+[07-May-2025 06:10:46 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\TrainingController::show() in /home/kiwanoin/public_html/app/Http/Controllers/TrainingController.php on line 100
+[07-May-2025 06:10:47 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\TrainingController::show() in /home/kiwanoin/public_html/app/Http/Controllers/TrainingController.php on line 100
+[10-May-2025 05:36:41 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting "]" in /home/kiwanoin/public_html/app/app_helpers.php on line 2638
+[10-May-2025 05:36:42 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting "]" in /home/kiwanoin/public_html/app/app_helpers.php on line 2638
+[10-May-2025 05:36:46 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting "]" in /home/kiwanoin/public_html/app/app_helpers.php on line 2638
+[10-May-2025 05:40:09 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting "]" in /home/kiwanoin/public_html/app/app_helpers.php on line 2638
+[10-May-2025 05:40:12 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting "]" in /home/kiwanoin/public_html/app/app_helpers.php on line 2638
+[10-May-2025 05:40:21 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting "]" in /home/kiwanoin/public_html/app/app_helpers.php on line 2638
+[10-May-2025 05:40:23 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting "]" in /home/kiwanoin/public_html/app/app_helpers.php on line 2638
+[10-May-2025 06:10:06 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/kiwanoin/public_html/app/app_helpers.php on line 2924
+[10-May-2025 06:10:36 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/kiwanoin/public_html/app/app_helpers.php on line 2924
+[10-May-2025 06:10:37 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/kiwanoin/public_html/app/app_helpers.php on line 2924
+[10-May-2025 06:10:53 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/kiwanoin/public_html/app/app_helpers.php on line 2924
+[10-May-2025 06:10:55 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/kiwanoin/public_html/app/app_helpers.php on line 2924
+[10-May-2025 06:13:19 UTC] PHP Parse error:  syntax error, unexpected token ":", expecting "]" in /home/kiwanoin/public_html/app/app_helpers.php on line 2651
+[10-May-2025 06:13:19 UTC] PHP Parse error:  syntax error, unexpected token ":", expecting "]" in /home/kiwanoin/public_html/app/app_helpers.php on line 2651
+[10-May-2025 06:13:58 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/kiwanoin/public_html/app/app_helpers.php on line 2924
+[17-May-2025 15:12:44 UTC] PHP Parse error:  Unclosed '{' on line 552 in /home/kiwanoin/public_html/app/app_helpers.php on line 2947
+[17-May-2025 15:12:47 UTC] PHP Parse error:  Unclosed '{' on line 552 in /home/kiwanoin/public_html/app/app_helpers.php on line 2947
+[17-May-2025 15:13:02 UTC] PHP Parse error:  Unclosed '{' on line 552 in /home/kiwanoin/public_html/app/app_helpers.php on line 2947

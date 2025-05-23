@@ -1,0 +1,148 @@
+.img-box {
+    /* position: relative; */
+    width: auto !important;
+    height: 50px;
+    /* padding: 25px; */
+}
+.width-auto{
+    width:auto !important;
+    height: auto !important;
+}
+
+.img-box img {
+    /* position: absolute; */
+    max-width: 100%;
+    max-height: 100%;
+    /* Ensure the image covers the entire container */
+}
+.image-container {
+    margin-bottom: 20px;
+}
+
+.image-container a {
+    display: block;
+    overflow: hidden;
+}
+
+.image-container img {
+    transition: transform 0.3s ease-in-out;
+}
+
+.image-container a:hover img {
+    transform: scale(1.1);
+}
+
+#loading-overlay {
+    position: fixed;
+
+    top: 0;
+
+    left: 0;
+
+    width: 100%;
+
+    height: 100%;
+
+    background-color: rgba(0, 0, 0, 0.5);
+    /* semi-transparent black */
+
+    z-index: 9999;
+    /* Ensure it's on top of other elements */
+
+    display: none;
+    /* Initially hidden */
+}
+
+#loading-indicator {
+    position: absolute;
+
+    top: 50%;
+
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+}
+
+#loading-indicator img {
+    width: 300px;
+    /* Adjust the width as needed */
+    height: auto;
+    /* Maintain aspect ratio */
+}
+
+.icon-size {
+    width: 50px;
+    height: 50px;
+}
+
+.list-unstyled li a {
+    position: relative;
+    text-decoration: none;
+}
+
+.list-unstyled li a::after {
+    content: "";
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background-color: #fff;
+    /* Change this to your desired color */
+    transition: width 0.3s ease-in-out;
+}
+
+.list-unstyled li a:hover::after {
+    width: 100%;
+}
+
+.lottie {
+    width: 100%;
+    height: 500px;
+    margin-bottom: 10px;
+}
+
+.contact-cta-section {
+    background-image: url("/assets/front-end/img/gallery/waves-white.svg");
+    background-size: cover;
+    background-position: center;
+    padding: 40px 20px;
+}
+
+.cta-wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.details-wrapper h2 {
+    color: #fff;
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.details-wrapper p {
+    color: #fff;
+    font-size: 18px;
+    margin-bottom: 0;
+}
+.z-index-frontend{
+    position: relative; z-index: 3
+}
+
+/* Custom CSS to make next and previous buttons black */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    filter: invert(100%);
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    color: black;
+}
+
+.asterisk{
+    color: red;
+}
+.btn-btn-primary{
+    color: #11235a;
+}
